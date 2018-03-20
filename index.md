@@ -7,3 +7,4 @@ pizza
 feta
 chocolate cake
 oranges
+pears
