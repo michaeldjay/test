@@ -4,3 +4,4 @@ Cat food
 cheese
 crackers
 pizza
+feta
